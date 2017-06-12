@@ -1,1 +1,6 @@
-**/should-not-lint/*
+should-not-lint-0
+/should-not-lint-1
+should-not-lint-2/*
+!should-not-lint-2/should-lint.js
+**/should-not-lint
+**/*.nolint.js
